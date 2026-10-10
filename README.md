@@ -17,7 +17,7 @@
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=2F81F7&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=VishalBalasubramanian-123&label=Profile%20views&color=2F81F7&style=flat-square)
 ![Location](https://img.shields.io/badge/Dublin%2C%20Ireland-Open%20to%20Remote-success?style=flat-square&logo=googlemaps&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Open%20to%20work-brightgreen?style=flat-square)
 
