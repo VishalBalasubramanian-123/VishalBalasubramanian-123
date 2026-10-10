@@ -121,20 +121,54 @@ Search engine built from scratch: inverted index with positional postings, ranke
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,fastapi,spring,postgres,mysql,mongodb,supabase,aws,azure,vercel,github,githubactions,pytorch,sklearn,numpy,pandas,r,astro,figma&perline=10" alt="skills"/>
+### 🤖 AI & Machine Learning
 
-<br/><br/>
+**LLM Orchestration, Agents & RAG**
 
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-8B5CF6?style=for-the-badge)
 ![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge)
 ![Strands SDK](https://img.shields.io/badge/Strands%20SDK-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![AgentCore](https://img.shields.io/badge/AWS%20AgentCore-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude%20SDK-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Claude SDK](https://img.shields.io/badge/Claude%20SDK-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![GPT-4](https://img.shields.io/badge/GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white)
+![DeepSeek-VL](https://img.shields.io/badge/DeepSeek--VL-4D6BFE?style=for-the-badge)
+
+**Vector Search & Embeddings**
+
 ![pgvector](https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
-![GPT-4](https://img.shields.io/badge/GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Cosmos DB](https://img.shields.io/badge/Azure%20Cosmos%20DB-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Embeddings](https://img.shields.io/badge/Vector%20Embeddings-555?style=for-the-badge)
 
-</div>
+**Classical ML & Data Science**
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,r&perline=4" alt="ml icons"/>
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![NLTK](https://img.shields.io/badge/NLTK-154F5B?style=for-the-badge)
+
+---
+
+### ⚙️ Backend & Data
+
+**Languages & Frameworks**
+
+<img src="https://skillicons.dev/icons?i=python,java,fastapi,spring&perline=4" alt="backend icons"/>
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase&perline=4" alt="database icons"/>
+
+![SQL](https://img.shields.io/badge/SQL%20%26%20ETL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
+
+---
+
+### ☁️ Cloud & DevOps
+
+<img
 
 ---
 
