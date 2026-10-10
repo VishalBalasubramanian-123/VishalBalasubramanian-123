@@ -168,7 +168,11 @@ Search engine built from scratch: inverted index with positional postings, ranke
 
 ### ☁️ Cloud & DevOps
 
-<img
+<img src="https://skillicons.dev/icons?i=aws,azure,vercel,github,githubactions&perline=5" alt="cloud icons"/>
+
+![Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+![EventBridge](https://img.shields.io/badge/AWS%20EventBridge-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ---
 
